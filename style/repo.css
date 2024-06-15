@@ -1,0 +1,66 @@
+@media (max-width: 768px) {
+    .About .about-content .row {
+        justify-content: center;
+
+    }
+
+    .card-cont {
+        margin: 10px 20px;
+        width: calc(100% - 40px);
+    }
+
+    .card-cont:first-child,
+    .card-cont:last-child {
+        margin-top: 20px;
+        width: calc(60% - 20px);
+
+    }
+
+    .section-contact .container-contact .formbox .contact-top,
+    .section-contact .container-contact .formbox .contact-down,
+    .section-contact .container-contact .formbox .contact-down .number-code {
+        display: block;
+
+    }
+
+    .section-contact .container-contact .formbox .contact-top .w51,
+    .section-contact .container-contact .formbox .contact-down .w53,
+    .section-contact .container-contact .formbox .contact-down .w52,
+    .section-contact .container-contact .formbox .contact-down .w50 {
+        width: 80%;
+
+    }
+
+    .section-contact .container-contact .formbox .contact-down .number-code .text-area .w100 {
+        width: 39%;
+        margin-top: 0;
+    }
+
+    .section-contact .container-contact .btn-sim {
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width:600px) {
+
+    .section-contact .container-contact .formbox .contact-top,
+    .section-contact .container-contact .formbox .contact-down,
+    .section-contact .container-contact .formbox .contact-down .number-code {
+        display: block;
+
+    }
+
+    .section-contact .container-contact .formbox .contact-top .w51 {
+        width: 82%;
+
+    }
+
+    .section-contact .container-contact .formbox .contact-down .number-code .text-area .w100 {
+        width: 39%;
+        margin-top: 0;
+    }
+
+    .section-contact .container-contact .btn-sim {
+        margin-bottom: 1rem;
+    }
+}
