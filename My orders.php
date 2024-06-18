@@ -27,6 +27,8 @@ if (isset($_SESSION["user_id"])) {
 <ctrl name='page-offer.html' role='grouping' />
 
 <ctrl name='page-offer.html' role='grouping' />
+
+<ctrl name='page-offer.html' role='grouping' />
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
