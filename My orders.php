@@ -23,7 +23,8 @@ if (isset($_SESSION["user_id"])) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
-
+<ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
+<ctrl name='page-offer.html' role='grouping' />
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
