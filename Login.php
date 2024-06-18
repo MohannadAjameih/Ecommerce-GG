@@ -77,8 +77,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
                                 <h1>Login</h1>
                                 <form method="POST" action="">
                                     <p>
-                                        <label for="email">Email Address <span></span></label>
-                                        <input type="email" name="email" id="email" autocomplete="off" required
+<ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
+<ctrl name='page-offer.html' role='grouping' />
+<input type="email" name="email" id="email" autocomplete="off" required
                                             style="width: 300px;">
                                     </p>
                                     <p>
