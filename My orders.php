@@ -14,7 +14,9 @@ if (isset($_SESSION["user_id"])) {
     ;
     $result = $conn->query($sql);
 
-} else {
+<ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
+<ctrl name='page-offer.html' role='grouping' />
+
     echo "User ID is not set in the session.";
 }
 
