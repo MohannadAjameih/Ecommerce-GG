@@ -86,6 +86,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
 
                                     <ctrl name='page-offer.html' role='grouping' />
 
+                                    <ctrl name='page-offer.html' role='grouping' />
+
 
                                     <ctrl name='page-offer.html' role='grouping' />
 
