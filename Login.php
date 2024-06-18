@@ -88,6 +88,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
                                     <ctrl name='page-offer.html' role='grouping' />
 
                                     <ctrl name='page-offer.html' role='grouping' />
+
+                                    <ctrl name='page-offer.html' role='grouping' />
                                     Visual Studio Code' rolerole='grouping'
 <ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
 <ctrl name='page-offer.html' role='grouping' />
