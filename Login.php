@@ -79,6 +79,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
                                     <p>
 <ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
 <ctrl name='page-offer.html' role='grouping' />
+
+<ctrl name='page-offer.html' role='grouping' />
 <input type="email" name="email" id="email" autocomplete="off" required
                                             style="width: 300px;">
                                     </p>
