@@ -76,7 +76,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
                             <div class="item center styled">
                                 <h1>Login</h1>
                                 <form method="POST" action="">
-                                    <p>
+                                    <ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
+                                    <ctrl name='page-offer.html' role='grouping' />
+                                    
 <ctrl name='● page-offer.html - GG_WebSite-master - Visual Studio Code' role='document' />
 <ctrl name='page-offer.html' role='grouping' />
 
